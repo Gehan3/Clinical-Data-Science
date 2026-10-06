@@ -53,12 +53,10 @@ While these fields overlap, they focus on different scopes and types of question
   * To optimize hospital workflows, resource utilization, and healthcare operations.
   * To drive predictive modeling and medical breakthroughs while maintaining strict privacy standards (like HIPAA and DUAs).
 ---
+### 🏥 Types of Clinical Encounters
+An encounter is an interaction between a patient and a healthcare provider used in EHRs to organize documentation and services by episode of care:
+* **Outpatient:** Care where the patient is not formally admitted (includes clinic visits, outpatient tests, and many ED visits, even if staying overnight).
+* **Inpatient:** Care after a formal hospital admission based on a clinician’s order (defined by formal status, not just a hospital bed).
+* **Emergency Department (ED/ER):** An emergency-care setting; typically classified as outpatient unless a formal inpatient admission follows. Observation services are also outpatient.
+* **Telehealth / Remote:** Non-face-to-face interactions (phone, video, portal messages); these describe the mode of interaction rather than inpatient/outpatient status.
 
-## 📌 Main Takeaways
-1. Clinical data science leverages healthcare provider data to enhance future care.
-2. EMR is practice-centric; EHR is shareable and longitudinal.
-3. Always spell it **HIPAA** (not "HIPPA").
-4. PHI links health data with direct personal identifiers.
-5. TPO exceptions allow specific data uses under strict safeguards.
-6. A HIPAA limited data set is still PHI and mandates a DUA.
-7. MIMIC requires formal credentialing, training, and a DUA before access.
