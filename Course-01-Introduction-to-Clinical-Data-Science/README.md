@@ -43,4 +43,4 @@ While these fields overlap, they focus on different scopes and types of question
 4. PHI links health data with direct personal identifiers.
 5. TPO exceptions allow specific data uses under strict safeguards.
 6. A HIPAA limited data set is still PHI and mandates a DUA.
-7. MIMIC requires formal credentialing, training, and a DUA prior to access.
+7. MIMIC requires formal credentialing, training, and a DUA before access.
