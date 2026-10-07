@@ -66,7 +66,20 @@ Examples of common health-care data include:
 
 Billing and administrative data
 
-CPT codes describe services and procedures; ICD-10-CM codes classify diagnoses. Together, they support U.S. billing and reporting. ICD-9-CM is the former diagnosis code set, replaced by ICD-10-CM in 2015.
+Billing data record the services provided, diagnoses documented, and related claims or payment activity. Two important code systems are:
+
+•
+CPT (Current Procedural Terminology): Describes many services and procedures performed by physicians and other qualified health-care professionals—broadly, what service was provided. CPT codes are five characters and may be numeric or alphanumeric, depending on the category. In the United States, they are used to report and bill many professional services, tests, and procedures.
+
+•
+ICD-10-CM (International Classification of Diseases, Tenth Revision, Clinical Modification): Classifies diagnoses and conditions—broadly, what condition or reason for the service was documented. U.S. providers use these diagnosis codes for claims and morbidity reporting. Codes have 3–7 characters: the first three identify a category, while later characters add detail. Depending on the code family, that detail may include factors such as etiology, anatomical site, manifestation, laterality, or severity; the positions do not have one universal meaning across all codes.
+
+•
+ICD-9-CM: The older U.S. clinical-modification code set. Codes generally had 3–5 characters, with the first three forming the category and remaining characters adding detail. ICD-10-CM replaced ICD-9-CM for routine U.S. diagnosis coding in 2015.
+
+ICD-10-CM is more detailed and has substantially more codes than ICD-9-CM. Course figures such as more than 14,000 ICD-9-CM codes and more than 70,000 ICD-10-CM codes are approximate; totals vary by code-set version and update. The broader ICD classification is also used for mortality statistics, while ICD-10-CM is the U.S. clinical modification used to classify diagnoses and morbidity.
+
+
 
 Laboratory data
 
