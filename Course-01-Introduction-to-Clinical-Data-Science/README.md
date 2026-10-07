@@ -110,9 +110,8 @@ In brief: Billing data capture coded services and diagnoses; laboratory data cap
 
 Patient records may include age, sex or gender, race or ethnicity, occupation and workplace, lifestyle, and social history. Social and lifestyle information can include alcohol, tobacco/nicotine, and other substance use. Family history records relevant health conditions among relatives and may help identify possible inherited risks.
 
-These details help clinicians understand a patient’s context and tailor a care plan to individual needs, preferences, and circumstances. Family history can guide risk assessment or screening, but does not by itself prove that a condition is genetic.
+These details help clinicians understand a patient’s context and tailor a care plan to individual needs, preferences, and circumstances. Family history can guide risk assessment or screening, but it does not prove that a condition is genetic on its own.
 
 
 
-اكتبها بطريقه Readme 
 
