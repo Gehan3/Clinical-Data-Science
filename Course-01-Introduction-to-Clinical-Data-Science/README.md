@@ -78,12 +78,18 @@ ICD-10-CM (International Classification of Diseases, Tenth Revision, Clinical Mo
 ICD-9-CM: The older U.S. clinical-modification code set. Codes generally had 3–5 characters, with the first three forming the category and remaining characters adding detail. ICD-10-CM replaced ICD-9-CM for routine U.S. diagnosis coding in 2015.
 
 ICD-10-CM is more detailed and has substantially more codes than ICD-9-CM. Course figures such as more than 14,000 ICD-9-CM codes and more than 70,000 ICD-10-CM codes are approximate; totals vary by code-set version and update. The broader ICD classification is also used for mortality statistics, while ICD-10-CM is the U.S. clinical modification used to classify diagnoses and morbidity.
+outpatient billing >>>>> Physician and providers at time of service 
+inpatient billing >>>>>> Professional Medical coders after discharge
 
 
 
 ## Laboratory data
 
-Anatomic pathology examines tissue and cell samples, often producing narrative reports. Clinical pathology analyzes blood and other specimens through tests such as hematology, chemistry, microbiology, and molecular diagnostics; results are usually structured as individual tests or panels.
+Anatomic pathology examines tissue and cell samples and often produces narrative reports. (unstructured or semistructured)
+Clinical pathology analyzes blood and other specimens through tests such as hematology, chemistry, microbiology, and molecular diagnostics; (Results are usually structured as individual tests or panels)
+
+Molecular diagnostics can be in both of them, depending on whether they are using blood or testing Tissue
+we trust The 4 W's of data in every step
 
 ## Clinical observation data
 
