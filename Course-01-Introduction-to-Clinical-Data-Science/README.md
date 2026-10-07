@@ -60,7 +60,7 @@ An encounter is an interaction between a patient and a healthcare provider used 
 * **Emergency Department (ED/ER):** An emergency-care setting; typically classified as outpatient unless a formal inpatient admission follows. Observation services are also outpatient.
 * **Telehealth / Remote:** Non-face-to-face interactions (phone, video, portal messages); these describe the mode of interaction rather than inpatient/outpatient status.
 
-Types of data
+### 🏥 Types of data
 
 Examples of common health-care data include:
 
