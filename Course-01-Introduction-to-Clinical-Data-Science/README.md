@@ -17,7 +17,7 @@ While these fields overlap, they focus on different scopes and types of question
 * **EHR (Electronic Health Record):** A broader, longitudinal view of a patient’s health information designed for secure sharing across multiple providers and care settings. 
   * *Contents:* May include diagnoses, medications, allergies, immunizations, progress notes, lab results, radiology images, demographics, and billing info.
 
-### 3. HIPAA and Patient Privacy
+### 3. HIPAA and protected health information (PHI)
 * **HIPAA (Health Insurance Portability and Accountability Act):** Protects **Protected Health Information (PHI)** held or transmitted by covered entities or business associates.
 * **PHI (Protected Health Information):** Individually identifiable health information combined with personal identifiers (names, addresses, full dates, phone numbers, SSN, etc.).
 * **TPO Framework:** HIPAA permits the use and disclosure of PHI without individual authorization for:
@@ -59,4 +59,35 @@ An encounter is an interaction between a patient and a healthcare provider used 
 * **Inpatient:** Care after a formal hospital admission based on a clinician’s order (defined by formal status, not just a hospital bed).
 * **Emergency Department (ED/ER):** An emergency-care setting; typically classified as outpatient unless a formal inpatient admission follows. Observation services are also outpatient.
 * **Telehealth / Remote:** Non-face-to-face interactions (phone, video, portal messages); these describe the mode of interaction rather than inpatient/outpatient status.
+
+Types of data
+
+Examples of common health-care data include:
+
+Billing and administrative data
+
+CPT codes describe services and procedures; ICD-10-CM codes classify diagnoses. Together, they support U.S. billing and reporting. ICD-9-CM is the former diagnosis code set, replaced by ICD-10-CM in 2015.
+
+Laboratory data
+
+Anatomic pathology examines tissue and cell samples, often producing narrative reports. Clinical pathology analyzes blood and other specimens through tests such as hematology, chemistry, microbiology, and molecular diagnostics; results are usually structured as individual tests or panels.
+
+Clinical observation data
+
+Clinical observations are measurements or findings recorded during an office visit or hospital stay. What is documented depends on the encounter and care setting. An outpatient visit may include vital signs such as blood pressure, pulse, and temperature; hospital stays may include repeated measurements over time.
+
+Medication data
+
+Medication records may include:
+•Names: brand name and generic (active-ingredient) name.
+•Strength and formulation: amount of active ingredient per unit or volume, plus the form of the medicine (such as a tablet, capsule, or liquid).
+•Dose: the amount taken or administered each time.
+•Route: how it is given (such as oral, topical, or intravenous).
+•Frequency and duration: how often it is taken and for how long.
+Distinction: Strength describes the medicine itself (for example, 250 mg per tablet); dose describes the amount given to the patient (for example, one tablet, or 250 mg, per dose).
+In brief: Billing data capture coded services and diagnoses; laboratory data capture test results; clinical observations capture measurements; and medication records capture drug and dosing details. All need clinical context for interpretation.
+
+Demographic Data
+
+اكتبها بطريقه Readme 
 
