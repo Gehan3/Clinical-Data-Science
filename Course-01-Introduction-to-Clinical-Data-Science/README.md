@@ -64,7 +64,7 @@ An encounter is an interaction between a patient and a healthcare provider used 
 
 Examples of common health-care data include:
 
-Billing and administrative data
+## Billing and administrative data
 
 Billing data record the services provided, diagnoses documented, and related claims or payment activity. Two important code systems are:
 
@@ -81,15 +81,15 @@ ICD-10-CM is more detailed and has substantially more codes than ICD-9-CM. Cours
 
 
 
-Laboratory data
+## Laboratory data
 
 Anatomic pathology examines tissue and cell samples, often producing narrative reports. Clinical pathology analyzes blood and other specimens through tests such as hematology, chemistry, microbiology, and molecular diagnostics; results are usually structured as individual tests or panels.
 
-Clinical observation data
+## Clinical observation data
 
 Clinical observations are measurements or findings recorded during an office visit or hospital stay. What is documented depends on the encounter and care setting. An outpatient visit may include vital signs such as blood pressure, pulse, and temperature; hospital stays may include repeated measurements over time.
 
-Medication data
+## Medication data
 
 Medication records may include:
 •Names: brand name and generic (active-ingredient) name.
@@ -100,7 +100,7 @@ Medication records may include:
 Distinction: Strength describes the medicine itself (for example, 250 mg per tablet); dose describes the amount given to the patient (for example, one tablet, or 250 mg, per dose).
 In brief: Billing data capture coded services and diagnoses; laboratory data capture test results; clinical observations capture measurements; and medication records capture drug and dosing details. All need clinical context for interpretation.
 
-Patient demographics and history Data
+## Patient demographics and history Data
 
 Patient records may include age, sex or gender, race or ethnicity, occupation and workplace, lifestyle, and social history. Social and lifestyle information can include alcohol, tobacco/nicotine, and other substance use. Family history records relevant health conditions among relatives and may help identify possible inherited risks.
 
